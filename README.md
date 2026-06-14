@@ -1,7 +1,3 @@
-# Python Learning Journey 🐍
-
-Hey there! This is my Python learning playground where I've been practicing and experimenting with Python concepts. It's basically my coding notebook organized chapter by chapter.
-
 ## What's Inside? 📚
 
 **Chapter 01 - First Steps**  
@@ -42,36 +38,3 @@ Exception handling (so my programs don't crash), list comprehensions (one-liners
 
 **Chapter 13 - Pro Level**  
 Virtual environments, lambda functions, map/filter/reduce - the tools that make Python really powerful.
-
-## How to Run 🚀
-
-Just pick any file and run it:
-```bash
-python "Chapter 02/01_Variables.py"
-```
-
-## What I Learned 💡
-
-- Basic Python syntax and concepts
-- How to work with different data types
-- Control flow (if/else, loops)
-- Writing clean functions
-- Object-oriented programming
-- Error handling
-- Cool Python tricks and shortcuts
-
-## Tools & Libraries 🛠️
-
-- Standard Python stuff (os, random, functools)
-- pyttsx3 for text-to-speech
-- typing for type hints
-
-## Progress Status ✨
-
-From printing "Hello World" to building classes with inheritance and decorators - it's been quite a journey! Each chapter builds on the previous one, and the practice problems really helped solidify the concepts.
-
----
-
-Made with ☕ and lots of practice by **Roshan Manjal**
-
-*Feel free to explore, learn, or use any code here. Happy coding!* 🎉
